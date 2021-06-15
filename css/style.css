@@ -1,0 +1,49 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.Batman{
+    background-color: #E6E6E6;
+    text-align: center;
+}
+h1{
+    background-color: #C4C4C4;
+    color: #005677;
+    text-align: center;
+    font-size: 35px;
+    line-height: 84.69%;
+}
+h2{
+    background-color: #C4C4C4;
+    color: #005677;
+}
+footer{
+    background-color: #005677;
+    color: white;
+}
+span{
+    font-weight: bold;
+}
+/*
+#contacto{
+    position: absolute;
+    width: 145px;
+    height: 17px;
+    left: 601px;
+    top: 998px;
+}
+#instagram{
+    position: absolute;
+width: 20px;
+height: 20px;
+left: 772px;
+top: 996px;
+}
+#linkedin{
+    position: absolute;
+width: 20px;
+height: 20px;
+left: 818px;
+top: 996px;
+}
+*/
